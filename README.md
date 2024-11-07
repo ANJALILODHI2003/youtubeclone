@@ -1,4 +1,17 @@
+
 # Getting Started with Create React App
+#screenshot
+![Screenshot (480)](https://github.com/user-attachments/assets/7fdd028d-c32a-4d72-82dc-861f578266c4)
+![Screenshot (481)](https://github.com/user-attachments/assets/297141b9-e6ff-438f-a0fd-dd561f2cb164)
+![Screenshot (482)](https://github.com/user-attachments/assets/121a04ec-2e7b-4447-87a8-4b0afc1b04c9)
+
+#Features
+Trending & Popular Videos: Displays popular videos in the user’s region.
+Video Categories: Filter videos based on categories for easy navigation.
+Search Videos: Allows users to search for videos with relevant results.
+Related Videos: Displays videos related to the currently viewed video.
+Channel Details: Fetches and displays videos uploaded by specific channels.
+Subscriptions: Shows videos from subscribed channels (requires user authentication).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
